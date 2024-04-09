@@ -20,7 +20,7 @@ body{
 }
 
 main {
-    height: calc(100vh - 7.9rem);
+    min-height: calc(100vh - 7.9rem);
 }
 
 main.index section {
